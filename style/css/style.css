@@ -1,0 +1,60 @@
+nav ul{
+    display: flex;
+    list-style-type: none;
+    justify-content: center;
+    gap: 25px;
+}
+nav a{
+    text-decoration: none;
+}
+nav a{
+    color: black;
+}
+nav a:hover{
+color: gold;
+}
+.container{
+    border-style: solid;
+    border: 1px;
+    height: 500px;
+    display: grid;
+    grid-template-columns: 50% 50%;
+    gap: 10px;
+}
+section{
+    margin-top: 50px;
+}
+.div1{
+    margin: auto;
+    text-align: center;
+}
+.img{
+    margin: auto;
+}
+button{
+    background-color: cornflowerblue;
+    border-radius: 15px;
+    border: 1px;
+    border-style: solid;
+}
+button a{
+    text-decoration: none;
+    color: beige;
+}
+.section1{
+    background-color: rgb(205, 205, 200);
+}
+.container1{
+    align-content: center;
+    border: 1px solid black;
+    height: 500px;
+    display: grid;
+    grid-template-columns: 45% 45%;
+}
+.img1{
+    margin: auto;
+}
+.img1 img{
+    width: 450px;
+    height: 400px;
+}
